@@ -8,3 +8,4 @@ pytest
 overrides
 scikit-learn
 reportlab
+google-cloud-storage
