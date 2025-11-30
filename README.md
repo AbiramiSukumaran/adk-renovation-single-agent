@@ -1,7 +1,7 @@
 # adk-renovation-single-agent
 
 
-1. Clone repo or ccreate your project folder and copy paste the contents 
+1. Clone repo or create your project folder and copy paste the contents 
 
 2. Test it locally:
 
