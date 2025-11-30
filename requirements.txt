@@ -1,4 +1,4 @@
-google-adk
+google-adk==1.1.0
 pysqlite3-binary
 pdfplumber
 google-cloud-aiplatform
